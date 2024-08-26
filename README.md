@@ -1,6 +1,6 @@
 # Project 8: Theme Switch
 
-We doing how to doing light and dark mode in our websites and web applications.
+We learn how to doing light and dark mode in our websites and web applications.
 
 ## Getting Started with Create React App
 
